@@ -54,16 +54,16 @@
 | Other conserved genes | *matK, clpP, accD, cemA, ccsA, infA, ycf1, ycf2, ycf3, ycf4* |
 
 ## Data Sources & References
-1. National Center for Biotechnology Information. (2023). *Lycoris radiata* chloroplast, complete genome (NC_045077.1). Retrieved September 30, 2026, from https://www.ncbi.nlm.nih.gov/nuccore/NC_045077.1
-2. Zhang, F., et al. (2019). The complete chloroplast genome sequence of *Lycoris radiata*. *Mitochondrial DNA Part B*, 4(2), 2886–2887. https://doi.org/10.1080/23802359.2019.1660265
-3. Daniell, H., Lin, C.‑S., Yu, M., & Chang, W.‑J. (2016). Chloroplast genomes: Diversity, evolution, and applications in genetic engineering. *Genome Biology*, 17, 134. https://doi.org/10.1186/s13059-016-1004-2
-4. Gualberto, J. M. & Newton, K. J. (2017). Plant mitochondrial genomes: Dynamics and mechanisms of mutation. *Annual Review of Plant Biology*, 68, 225–252. https://doi.org/10.1146/annurev-arplant-043015-112232
-5. Palmer, J. D., et al. (2000). Dynamic evolution of plant mitochondrial genomes. *PNAS*, 97(13), 6960–6966. https://doi.org/10.1073/pnas.97.13.6960
+1. **Daniell, H.,** Lin, C.‑S., Yu, M., & Chang, W.‑J. (2016). Chloroplast genomes: Diversity, evolution, and applications in genetic engineering. *Genome Biology*, 17, Article 134. https://doi.org/10.1186/s13059-016-1004-2
+2. **Gualberto, J. M. & Newton, K. J.** (2017). Plant mitochondrial genomes: Dynamics and mechanisms of mutation. *Annual Review of Plant Biology*, 68, 225–252. https://doi.org/10.1146/annurev-arplant-043015-112232
+3. **National Center for Biotechnology Information.** (2023). *Lycoris radiata* chloroplast, complete genome (NC_045077.1) [Nucleotide sequence]. NCBI RefSeq. Retrieved September 30, 2026, from https://www.ncbi.nlm.nih.gov/nuccore/NC_045077.1
+4. **Palmer, J. D.,** Adams, K. L., Cho, Y., Parkinson, C. L., Qiu, Y.‑L., & Song, K. (2000). Dynamic evolution of plant mitochondrial genomes: Mobile genes and introns and highly variable mutation rates. *Proceedings of the National Academy of Sciences*, 97(13), 6960–6966. https://doi.org/10.1073/pnas.97.13.6960
+5. **Zhang, F.,** Shu, X., Wang, T., Zhuang, W., & Wang, Z. (2019). The complete chloroplast genome sequence of *Lycoris radiata*. *Mitochondrial DNA Part B*, 4(2), 2886–2887. https://doi.org/10.1080/23802359.2019.1660265
 
 ## Reproducibility — How to Repeat This Analysis
 Another student can reproduce this work exactly by following these steps:
 1. Go to NCBI Nucleotide → search accession **NC_045077.1** → download the FASTA file
-2. Sign in to https://usegalaxy.org/ → create a new history named **Plastid_Lycoris_[YourName]**
+2. Sign in to https://usegalaxy.org/ → create a new history named **Plastid_Lycoris_OBIÑETA**
 3. Upload the FASTA file → rename it to match the accession
 4. Run **Fasta Statistics** → record genome length, GC%, and number of sequences
 5. Open the NCBI GenBank "Features" table → extract gene counts and coordinates
@@ -71,4 +71,4 @@ Another student can reproduce this work exactly by following these steps:
 7. Compile tables and answers following the lab report template
 8. Create your own GitHub repository with the same folder structure and document your workflow
 
-## Repository Structure
+
