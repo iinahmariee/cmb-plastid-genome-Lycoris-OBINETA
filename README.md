@@ -63,7 +63,7 @@
 ## Reproducibility — How to Repeat This Analysis
 Another student can reproduce this work exactly by following these steps:
 1. Go to NCBI Nucleotide → search accession **NC_045077.1** → download the FASTA file
-2. Sign in to https://usegalaxy.org/ → create a new history named **Plastid_Lycoris_OBIÑETA**
+2. Sign in to https://usegalaxy.org/ → create a new history named ex. **Plastid_Lycoris_OBIÑETA**
 3. Upload the FASTA file → rename it to match the accession
 4. Run **Fasta Statistics** → record genome length, GC%, and number of sequences
 5. Open the NCBI GenBank "Features" table → extract gene counts and coordinates
