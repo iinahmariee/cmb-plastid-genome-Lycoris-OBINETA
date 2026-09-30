@@ -38,7 +38,7 @@ In this activity, you will select one plant genus with an available complete pla
 | Topology | Circular |
 | Reference | Zhang et al. 2019, The complete chloroplast genome sequence of Lycoris radiata, Mitochondrial DNA Part B, DOI 10.1080/23802359.2019.1660265 |
 
-![Figure 2](../figures/02.%20Complete%20genome%20of%20Lycoris%20radiata.png)
+![Figure 2](../figures/02.%20Genome%20of%20Lycoris%20radiata.png)
 
 **Figure 2.** Complete genome of *Lycoris radiata* (NC_045077.1) in NCBI.
 
