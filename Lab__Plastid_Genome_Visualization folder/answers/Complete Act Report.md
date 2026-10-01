@@ -53,7 +53,7 @@ In this laboratory activity, you will use the same plastid genome that you selec
 **1. What is the scientific name of your chosen plant and its plastid genome accession number?**
 
 - Scientific name: *Lycoris radiata*
-- Plastid genome accession number: MW554924
+- Plastid genome accession number: NC_045077.1
 
 **2. What is the total length of the plastid genome in base pairs?**
 
