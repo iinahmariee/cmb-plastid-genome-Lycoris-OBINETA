@@ -18,7 +18,7 @@
 - Input file: GenBank format (NC_045077.1)
 - Display: Circular map
 - Output format: PNG
-- Resolution: Free
+- Resolution: Fine
 - Features displayed: All protein-coding genes, tRNA, rRNA, and intron-containing genes
 
 ## Plastid genome map
