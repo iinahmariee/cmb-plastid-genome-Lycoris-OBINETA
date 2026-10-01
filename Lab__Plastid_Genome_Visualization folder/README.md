@@ -1,6 +1,6 @@
 # Lab title: Visualize Plastid Genome Structure
 
-**Your name:** [replace with your full name]
+**Your name:** Obiñeta, Inah Marie - Section B
 
 **Scientific name of chosen plant:** *Lycoris radiata*
 
