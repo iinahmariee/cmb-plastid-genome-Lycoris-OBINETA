@@ -28,8 +28,8 @@ In this laboratory activity, you will use the same plastid genome that you selec
 ---
 
 # Part C. Generate the Plastid Genome Map Using OGDRAW
+![Plastid genome map](./figures/Lycoris%20radiata%20plastid%20Genome%20Map.png)
 
-![Plastid Genome Map](./figures/Lycoris%20radiata%20plastid%20Genome%20Map.png)
 
 ---
 
