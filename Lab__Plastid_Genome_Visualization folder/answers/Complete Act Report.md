@@ -14,8 +14,6 @@
 
 In this laboratory activity, you will use the same plastid genome that you selected in the previous plastid genome activity. You will create a graphical map of your plastid genome, identify its major structural regions, examine gene organization, and document the complete activity in your own GitHub repository.
 
-# Learning Objectives
-
 # Part A. Prepare Your Plastid Genome File
 
 | ITEM | ANSWER |
@@ -28,8 +26,8 @@ In this laboratory activity, you will use the same plastid genome that you selec
 ---
 
 # Part C. Generate the Plastid Genome Map Using OGDRAW
-![Plastid genome map](./figures/Lycoris%20radiata%20plastid%20Genome%20Map.png)
 
+![Plastid genome map](../figures/Lycoris%20radiata%20plastid%20Genome%20Map.png)
 
 ---
 
